@@ -12,3 +12,10 @@ running ipython3.8 dot8 file returns error
 ![](https://github.com/vjkr/kedroinstallation/blob/master/iperror.PNG)
 http://dotwhat.net/file/extension/8/5248#:~:text=Answer%3A%20Files%20which%20are%20given,may%20also%20use%20this%20extension.
 
+tried installing jupyter as mentioned here
+https://www.scivision.dev/install-ipython-jupyter-in-cygwin/
+as pip3.8 install jupyter
+returned errors
+
+trying wing personal from here
+https://wingware.com/get&prod=wing-personal&target=pub/wing-personal/7.2.3.0/wing-personal-7.2.3.0.exe
