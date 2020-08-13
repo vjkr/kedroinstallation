@@ -9,6 +9,6 @@ for python38 it is python3.8.exe
 exit using exit()
 
 running ipython3.8 dot8 file returns error
-
+![](https://github.com/vjkr/kedroinstallation/blob/master/iperror.PNG)
 http://dotwhat.net/file/extension/8/5248#:~:text=Answer%3A%20Files%20which%20are%20given,may%20also%20use%20this%20extension.
 
