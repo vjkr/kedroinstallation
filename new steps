@@ -2,3 +2,9 @@ installation on win7 64 sp1 os
 anaconda failed repeatedly
 installed first available version of anaconda from 2019 archives
 follow procedure as in readthedocs of kedro
+
+launch jupyter notebook
+(html page launched in notepad..! copy paste href in browser)
+
+kedro environment will be saved in
+C:\Users\vijaykumar\anaconda3\envs
