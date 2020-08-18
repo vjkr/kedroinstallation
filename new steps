@@ -8,3 +8,17 @@ launch jupyter notebook
 
 kedro environment will be saved in
 C:\Users\vijaykumar\anaconda3\envs
+
+to start project
+freshhhh
+open cmd
+conda activate kedro-environment
+kedro new
+(we can also launch a project) using yaml file)
+once project is created.
+
+install git using
+conda install git
+this will install git in conda kedro environment (inside which we are already present)
+for example projects
+git clone https://github.com/quantumblacklabs/kedro-examples.git
